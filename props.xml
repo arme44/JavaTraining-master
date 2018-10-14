@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>System properties</comment>
+<entry key="java.runtime.name">Java(TM) SE Runtime Environment</entry>
+<entry key="sun.boot.library.path">C:\Program Files\Java\jdk1.8.0_181\jre\bin</entry>
+<entry key="java.vm.version">25.181-b13</entry>
+<entry key="java.vm.vendor">Oracle Corporation</entry>
+<entry key="java.vendor.url">http://java.oracle.com/</entry>
+<entry key="path.separator">;</entry>
+<entry key="java.vm.name">Java HotSpot(TM) 64-Bit Server VM</entry>
+<entry key="file.encoding.pkg">sun.io</entry>
+<entry key="user.country">PL</entry>
+<entry key="user.script"/>
+<entry key="sun.java.launcher">SUN_STANDARD</entry>
+<entry key="sun.os.patch.level"/>
+<entry key="java.vm.specification.name">Java Virtual Machine Specification</entry>
+<entry key="user.dir">C:\Users\Arme\IdeaProjects\JavaTraining-master</entry>
+<entry key="java.runtime.version">1.8.0_181-b13</entry>
+<entry key="java.awt.graphicsenv">sun.awt.Win32GraphicsEnvironment</entry>
+<entry key="java.endorsed.dirs">C:\Program Files\Java\jdk1.8.0_181\jre\lib\endorsed</entry>
+<entry key="os.arch">amd64</entry>
+<entry key="java.io.tmpdir">C:\Users\Arme\AppData\Local\Temp\</entry>
+<entry key="line.separator">&#13;
+</entry>
+<entry key="java.vm.specification.vendor">Oracle Corporation</entry>
+<entry key="user.variant"/>
+<entry key="os.name">Windows 10</entry>
+<entry key="sun.jnu.encoding">Cp1250</entry>
+<entry key="java.library.path">C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;%JAVA_HOME%\bin;C:\Users\Arme\AppData\Local\Microsoft\WindowsApps;;.</entry>
+<entry key="java.specification.name">Java Platform API Specification</entry>
+<entry key="java.class.version">52.0</entry>
+<entry key="sun.management.compiler">HotSpot 64-Bit Tiered Compilers</entry>
+<entry key="os.version">10.0</entry>
+<entry key="user.home">C:\Users\Arme</entry>
+<entry key="user.timezone">Europe/Belgrade</entry>
+<entry key="java.awt.printerjob">sun.awt.windows.WPrinterJob</entry>
+<entry key="file.encoding">UTF-8</entry>
+<entry key="java.specification.version">1.8</entry>
+<entry key="java.class.path">C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Users\Arme\IdeaProjects\JavaTraining-master\out\production\JavaTraining-master;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar</entry>
+<entry key="user.name">Arme</entry>
+<entry key="java.vm.specification.version">1.8</entry>
+<entry key="sun.java.command">training.core.properties.RunArguments kurs JAVA SDA sobota test: baza danych.txt</entry>
+<entry key="java.home">C:\Program Files\Java\jdk1.8.0_181\jre</entry>
+<entry key="sun.arch.data.model">64</entry>
+<entry key="user.language">pl</entry>
+<entry key="java.specification.vendor">Oracle Corporation</entry>
+<entry key="awt.toolkit">sun.awt.windows.WToolkit</entry>
+<entry key="java.vm.info">mixed mode</entry>
+<entry key="java.version">1.8.0_181</entry>
+<entry key="java.ext.dirs">C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext</entry>
+<entry key="sun.boot.class.path">C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes</entry>
+<entry key="java.vendor">Oracle Corporation</entry>
+<entry key="file.separator">\</entry>
+<entry key="java.vendor.url.bug">http://bugreport.sun.com/bugreport/</entry>
+<entry key="sun.io.unicode.encoding">UnicodeLittle</entry>
+<entry key="sun.cpu.endian">little</entry>
+<entry key="coffe.for.developer">Black strong and hot</entry>
+<entry key="sun.desktop">windows</entry>
+<entry key="sun.cpu.isalist">amd64</entry>
+</properties>

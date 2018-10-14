@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>System properties</comment>
+<entry key="dessert.delight">Coffe and ice cream with hot pie</entry>
+<entry key="mainCourse.beverage">Tee</entry>
+<entry key="dessert.light">Cofee with cake</entry>
+<entry key="mainCourse.meet">Beef</entry>
+<entry key="mainCourse.soup">Tomato soup</entry>
+<entry key="dish.apperitif">Martini Bianco</entry>
+<entry key="drink.party">vodka </entry>
+</properties>
